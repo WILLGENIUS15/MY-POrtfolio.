@@ -1,5 +1,5 @@
 # portfolio
-## fidel omodni
+## fidel omondi
 # Description
 
 today's project we were to make a portfolio page  of our own
